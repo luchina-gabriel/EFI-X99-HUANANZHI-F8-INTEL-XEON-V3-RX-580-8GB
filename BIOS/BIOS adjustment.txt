@@ -1,0 +1,17 @@
+## BIOS adjustment
+
+Enter BIOS
+
+0. Save & Exit > Restore Defaults > Confirm with YES
+1. Advanced - ACPI Settings - ACPI Sleep State - Suspended Disabled
+2. Advanced - NCT5532D Super IO Configuration - Serial Port 1 Configuration - Serial Port - Disabled
+3. Advanced - CSM Configuration - Video - UEFI
+4. Advanced - USB Configuration - XHCI Hand-off - Enabled
+5. Advanced - USB Configuration - EHCI Hand-off - Enabled
+6. IntelRCSetup - Processdor Configuration - MSR Lock Control - Disabled
+
+Save, Exit, Reboot and enter BIOS again
+
+Advanced - CSM Configuration - CSM Support - Disabled
+
+Save, Exit, Reboot and Boot with Opencore to Install macOS
