@@ -12,7 +12,7 @@
 - Ethernet: Realtek RTL8168/8111 PCI-E Gigabit
 
 ## What works
-- macOS Big Sur, macOS Catalina and macOS Monterey
+- macOS Big Sur, macOS Catalina, macOS Monterey, and macOS Ventura
 - Audio
 - HDMI/DP
 - All USB ports
