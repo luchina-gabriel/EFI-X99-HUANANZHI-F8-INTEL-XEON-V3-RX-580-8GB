@@ -12,7 +12,7 @@
 - Ethernet: Realtek RTL8168/8111 PCI-E Gigabit
 
 ## What works
-- macOS Big Sur, macOS Catalina and macOS Monterey
+- macOS Ventura, Big Sur, macOS Catalina and macOS Monterey
 - Audio
 - HDMI/DP
 - All USB ports
@@ -26,15 +26,15 @@
 - Correct USB Mapping :(
 
 ## Kexts used:
-- AppleALC.kext
-- CpuTscSync.kext
-- Lilu.kext
-- RealtekRTL8111.kext
-- SMCProcessor.kext
-- SMCSuperIO.kext
-- VirtualSMC.kext
-- WhateverGreen.kext
-- XHCI-unsupported.kext
+- AppleALC.kext - [version 1.7.6](https://github.com/acidanthera/AppleALC/releases/tag/1.7.6)
+- CpuTscSync.kext - [version 1.0.9](https://github.com/acidanthera/CpuTscSync/releases/tag/1.0.9)
+- Lilu.kext - [version 1.6.2](https://github.com/acidanthera/Lilu/releases/tag/1.6.2)
+- RealtekRTL8111.kext - [version 2.4.2](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases/tag/2.4.2)
+- SMCProcessor.kext - [version 1.3.0](https://github.com/acidanthera/VirtualSMC/releases/tag/1.3.0)
+- SMCSuperIO.kext - [version 1.3.0](https://github.com/acidanthera/VirtualSMC/releases/tag/1.3.0)
+- VirtualSMC.kext - [version 1.3.0](https://github.com/acidanthera/VirtualSMC/releases/tag/1.3.0)
+- WhateverGreen.kext - [version 1.6.1](https://github.com/acidanthera/WhateverGreen/releases/tag/1.6.1)
+- XHCI-unsupported.kext - [version 0.9.2](https://github.com/RehabMan/OS-X-USB-Inject-All/tree/master/XHCI-unsupported.kext)
 
 ## Geekbench Results:
 - https://browser.geekbench.com/v5/cpu/12101653
