@@ -1,8 +1,8 @@
 # Huananzhi F8 + Intel Xeon E5-26XX v3 + RX 580 8Gb
 
-**Latest working macOS**: 12.1
+**Latest working macOS**: 13.0.1
 <br>
-**Current OpenCore**: 0.7.7
+**Current OpenCore**: 0.8.6
 
 ## Complete hardware specs
 - Intel Xeon E5-26XX v3 (HEDT Haswell)
